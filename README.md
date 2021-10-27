@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Avenger22
+- 👋 Hi, I’m Jurgen Hasmeta or Avenger22 in username
 - 👀 I’m interested in ... Progamming
 - 🌱 I’m currently learning ... Full Stack Web Dev
 - 💞️ I’m looking to collaborate on ... Projects
